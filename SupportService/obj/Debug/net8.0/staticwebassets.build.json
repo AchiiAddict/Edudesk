@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "onnJunT9DFGJS5xhIPe3yF8ANN5kFKaskzK3MBPknmI=",
+  "Source": "support-service",
+  "BasePath": "_content/support-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

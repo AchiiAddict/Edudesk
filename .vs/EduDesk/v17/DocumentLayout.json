@@ -1,0 +1,764 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelio\\Desktop\\EduDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|c:\\users\\zelio\\desktop\\edudesk\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|c:\\users\\zelio\\desktop\\edudesk\\apigateway\\api-gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|solutionrelative:apigateway\\api-gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\support-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\support-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\worker-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\worker-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\learning-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\learning-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|c:\\users\\zelio\\desktop\\edudesk\\edudesk.tests\\unittests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|solutionrelative:edudesk.tests\\unittests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|c:\\users\\zelio\\desktop\\edudesk\\edudesk.tests\\unittests\\urlsignertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|solutionrelative:edudesk.tests\\unittests\\urlsignertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|c:\\users\\zelio\\desktop\\edudesk\\edudesk.tests\\integrationtests\\supportapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|solutionrelative:edudesk.tests\\integrationtests\\supportapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|c:\\users\\zelio\\desktop\\edudesk\\edudesk.tests\\edudesk.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81982F4D-8CB1-41FE-AD51-9572803F8DEB}|EduDesk.Tests\\EduDesk.Tests.csproj|solutionrelative:edudesk.tests\\edudesk.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|c:\\users\\zelio\\desktop\\edudesk\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6C7830-8193-4B1E-AB15-A61A5321A43E}|ApiGateway\\api-gateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\workers\\certificateconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\workers\\certificateconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\events\\certificaterequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\events\\certificaterequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\workers\\dailyreportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\workers\\dailyreportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\workers\\slascannerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\workers\\slascannerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\helper\\urlsigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\helper\\urlsigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\hubs\\livelessonhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\hubs\\livelessonhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\hubs\\supportchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\hubs\\supportchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B824651-B99F-4F20-873C-A8432FB714C8}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{1B824651-B99F-4F20-873C-A8432FB714C8}|C:\\Users\\zelio\\Desktop\\EduDesk\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B824651-B99F-4F20-873C-A8432FB714C8}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{1B824651-B99F-4F20-873C-A8432FB714C8}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\identity-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\identity-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\data\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\data\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\events\\slawarningevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\events\\slawarningevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\consumers\\slawarningconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\consumers\\slawarningconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\data\\supportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\data\\supportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\learningservice\\migrations\\20260504230319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B133E97-D277-4F67-85B3-70309CD5427F}|LearningService\\learning-service.csproj|solutionrelative:learningservice\\migrations\\20260504230319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\migrations\\20260504181535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\migrations\\20260504181535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\supportservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5656E9C0-F8BB-496D-BCFF-DC6107321A53}|SupportService\\support-service.csproj|solutionrelative:supportservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\workerservice\\events\\slawarningevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB32EA-638D-4241-9006-7FE5B48A59BD}|WorkerService\\worker-service.csproj|solutionrelative:workerservice\\events\\slawarningevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\migrations\\20260504172037_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\migrations\\20260504172037_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|c:\\users\\zelio\\desktop\\edudesk\\identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07031D5-3343-4469-8C63-16338434F051}|IdentityService\\identity-service.csproj|solutionrelative:identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api-gateway",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\api-gateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\api-gateway.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\api-gateway.csproj",
+              "RelativeToolTip": "ApiGateway\\api-gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T23:56:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Dockerfile",
+              "RelativeDocumentMoniker": "WorkerService\\Dockerfile",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Dockerfile",
+              "RelativeToolTip": "WorkerService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-07T23:46:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EduDesk.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\EduDesk.Tests.csproj",
+              "RelativeDocumentMoniker": "EduDesk.Tests\\EduDesk.Tests.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\EduDesk.Tests.csproj",
+              "RelativeToolTip": "EduDesk.Tests\\EduDesk.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T22:06:05.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DailyReportWorker.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\DailyReportWorker.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Workers\\DailyReportWorker.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\DailyReportWorker.cs",
+              "RelativeToolTip": "WorkerService\\Workers\\DailyReportWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:26:21.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SlaScannerWorker.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\SlaScannerWorker.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Workers\\SlaScannerWorker.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\SlaScannerWorker.cs",
+              "RelativeToolTip": "WorkerService\\Workers\\SlaScannerWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:25:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Program.cs",
+              "RelativeDocumentMoniker": "SupportService\\Program.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Program.cs",
+              "RelativeToolTip": "SupportService\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:04:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "learning-service.csproj",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\learning-service.csproj",
+              "RelativeDocumentMoniker": "LearningService\\learning-service.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\learning-service.csproj",
+              "RelativeToolTip": "LearningService\\learning-service.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T23:22:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupportApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\IntegrationTests\\SupportApiTests.cs",
+              "RelativeDocumentMoniker": "EduDesk.Tests\\IntegrationTests\\SupportApiTests.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\IntegrationTests\\SupportApiTests.cs",
+              "RelativeToolTip": "EduDesk.Tests\\IntegrationTests\\SupportApiTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:09:14.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "worker-service.csproj",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\worker-service.csproj",
+              "RelativeDocumentMoniker": "WorkerService\\worker-service.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\worker-service.csproj",
+              "RelativeToolTip": "WorkerService\\worker-service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T21:24:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T18:25:29.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketTests.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\UnitTests\\TicketTests.cs",
+              "RelativeDocumentMoniker": "EduDesk.Tests\\UnitTests\\TicketTests.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\UnitTests\\TicketTests.cs",
+              "RelativeToolTip": "EduDesk.Tests\\UnitTests\\TicketTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:07:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "support-service.csproj",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\support-service.csproj",
+              "RelativeDocumentMoniker": "SupportService\\support-service.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\support-service.csproj",
+              "RelativeToolTip": "SupportService\\support-service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T22:15:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrlSignerTests.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\UnitTests\\UrlSignerTests.cs",
+              "RelativeDocumentMoniker": "EduDesk.Tests\\UnitTests\\UrlSignerTests.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\EduDesk.Tests\\UnitTests\\UrlSignerTests.cs",
+              "RelativeToolTip": "EduDesk.Tests\\UnitTests\\UrlSignerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:07:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "LearningService\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "LearningService\\Controllers\\MediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:20:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IdentityService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:43:06.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CertificateRequestedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Events\\CertificateRequestedEvent.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Events\\CertificateRequestedEvent.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Events\\CertificateRequestedEvent.cs",
+              "RelativeToolTip": "WorkerService\\Events\\CertificateRequestedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:32:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CertificateConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\CertificateConsumer.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Workers\\CertificateConsumer.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Workers\\CertificateConsumer.cs",
+              "RelativeToolTip": "WorkerService\\Workers\\CertificateConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:32:34.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UrlSigner.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Helper\\UrlSigner.cs",
+              "RelativeDocumentMoniker": "LearningService\\Helper\\UrlSigner.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Helper\\UrlSigner.cs",
+              "RelativeToolTip": "LearningService\\Helper\\UrlSigner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:12:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Program.cs",
+              "RelativeToolTip": "WorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:38:32.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:25:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupportChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Hubs\\SupportChatHub.cs",
+              "RelativeDocumentMoniker": "SupportService\\Hubs\\SupportChatHub.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Hubs\\SupportChatHub.cs",
+              "RelativeToolTip": "SupportService\\Hubs\\SupportChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:30:48.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvz8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-04T23:09:17.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "LearningService\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "LearningService\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:04:09.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LiveLessonHub.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Hubs\\LiveLessonHub.cs",
+              "RelativeDocumentMoniker": "LearningService\\Hubs\\LiveLessonHub.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Hubs\\LiveLessonHub.cs",
+              "RelativeToolTip": "LearningService\\Hubs\\LiveLessonHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:34:34.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LearningDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Data\\LearningDbContext.cs",
+              "RelativeDocumentMoniker": "LearningService\\Data\\LearningDbContext.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Data\\LearningDbContext.cs",
+              "RelativeToolTip": "LearningService\\Data\\LearningDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:02:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Worker.cs",
+              "RelativeToolTip": "WorkerService\\Worker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:37:14.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Models\\User.cs",
+              "RelativeToolTip": "IdentityService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:02:06.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "IdentityService\\Controllers\\TenantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:37:52.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Program.cs",
+              "RelativeDocumentMoniker": "LearningService\\Program.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Program.cs",
+              "RelativeToolTip": "LearningService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:02:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "SupportService\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "SupportService\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:16:45.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "SupportService\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Models\\Ticket.cs",
+              "RelativeToolTip": "SupportService\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:04:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SlaWarningEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Events\\SlaWarningEvent.cs",
+              "RelativeDocumentMoniker": "SupportService\\Events\\SlaWarningEvent.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Events\\SlaWarningEvent.cs",
+              "RelativeToolTip": "SupportService\\Events\\SlaWarningEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:58:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SlaWarningConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Consumers\\SlaWarningConsumer.cs",
+              "RelativeDocumentMoniker": "SupportService\\Consumers\\SlaWarningConsumer.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Consumers\\SlaWarningConsumer.cs",
+              "RelativeToolTip": "SupportService\\Consumers\\SlaWarningConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T22:02:11.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "LearningService\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Models\\Course.cs",
+              "RelativeToolTip": "LearningService\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:02:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\appsettings.json",
+              "RelativeToolTip": "LearningService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T23:02:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SupportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Data\\SupportDbContext.cs",
+              "RelativeDocumentMoniker": "SupportService\\Data\\SupportDbContext.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Data\\SupportDbContext.cs",
+              "RelativeToolTip": "SupportService\\Data\\SupportDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:13:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260504230319_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Migrations\\20260504230319_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LearningService\\Migrations\\20260504230319_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\LearningService\\Migrations\\20260504230319_InitialCreate.cs",
+              "RelativeToolTip": "LearningService\\Migrations\\20260504230319_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T23:03:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260504181535_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Migrations\\20260504181535_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SupportService\\Migrations\\20260504181535_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\Migrations\\20260504181535_InitialCreate.cs",
+              "RelativeToolTip": "SupportService\\Migrations\\20260504181535_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:15:35.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\appsettings.json",
+              "RelativeDocumentMoniker": "SupportService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\SupportService\\appsettings.json",
+              "RelativeToolTip": "SupportService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T18:13:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SlaWarningEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Events\\SlaWarningEvent.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Events\\SlaWarningEvent.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\WorkerService\\Events\\SlaWarningEvent.cs",
+              "RelativeToolTip": "WorkerService\\Events\\SlaWarningEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:29:28.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "identity-service.csproj",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\identity-service.csproj",
+              "RelativeDocumentMoniker": "IdentityService\\identity-service.csproj",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\identity-service.csproj",
+              "RelativeToolTip": "IdentityService\\identity-service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T17:49:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260504172037_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Migrations\\20260504172037_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Migrations\\20260504172037_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Migrations\\20260504172037_InitialCreate.cs",
+              "RelativeToolTip": "IdentityService\\Migrations\\20260504172037_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:20:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\appsettings.json",
+              "RelativeToolTip": "IdentityService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T17:09:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "IdentityService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:03:29.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Models\\Tenant.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Models\\Tenant.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Models\\Tenant.cs",
+              "RelativeToolTip": "IdentityService\\Models\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:01:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityService\\Program.cs",
+              "ToolTip": "C:\\Users\\zelio\\Desktop\\EduDesk\\IdentityService\\Program.cs",
+              "RelativeToolTip": "IdentityService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:00:46.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

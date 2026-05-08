@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ihZDKZ57gNSZlQgTZisd5cLbYgyYX6R6LxnVQM95cRM=",
+  "Source": "learning-service",
+  "BasePath": "_content/learning-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SupportService.Controllers.TicketController",
+    "Method": "CreateTicket",
+    "RelativePath": "api/Ticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newTicket",
+        "Type": "SupportService.Models.Ticket",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SupportService.Controllers.TicketController",
+    "Method": "GetSupportQueue",
+    "RelativePath": "api/Ticket/queue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

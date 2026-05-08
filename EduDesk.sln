@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "identity-service", "IdentityService\identity-service.csproj", "{B07031D5-3343-4469-8C63-16338434F051}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning-service", "LearningService\learning-service.csproj", "{6B133E97-D277-4F67-85B3-70309CD5427F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "support-service", "SupportService\support-service.csproj", "{5656E9C0-F8BB-496D-BCFF-DC6107321A53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "worker-service", "WorkerService\worker-service.csproj", "{3BBB32EA-638D-4241-9006-7FE5B48A59BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-gateway", "ApiGateway\api-gateway.csproj", "{2D6C7830-8193-4B1E-AB15-A61A5321A43E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{1B824651-B99F-4F20-873C-A8432FB714C8}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduDesk.Tests", "EduDesk.Tests\EduDesk.Tests.csproj", "{81982F4D-8CB1-41FE-AD51-9572803F8DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07031D5-3343-4469-8C63-16338434F051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07031D5-3343-4469-8C63-16338434F051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07031D5-3343-4469-8C63-16338434F051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07031D5-3343-4469-8C63-16338434F051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B133E97-D277-4F67-85B3-70309CD5427F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B133E97-D277-4F67-85B3-70309CD5427F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B133E97-D277-4F67-85B3-70309CD5427F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B133E97-D277-4F67-85B3-70309CD5427F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5656E9C0-F8BB-496D-BCFF-DC6107321A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5656E9C0-F8BB-496D-BCFF-DC6107321A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5656E9C0-F8BB-496D-BCFF-DC6107321A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5656E9C0-F8BB-496D-BCFF-DC6107321A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBB32EA-638D-4241-9006-7FE5B48A59BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBB32EA-638D-4241-9006-7FE5B48A59BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBB32EA-638D-4241-9006-7FE5B48A59BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBB32EA-638D-4241-9006-7FE5B48A59BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6C7830-8193-4B1E-AB15-A61A5321A43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6C7830-8193-4B1E-AB15-A61A5321A43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6C7830-8193-4B1E-AB15-A61A5321A43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6C7830-8193-4B1E-AB15-A61A5321A43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81982F4D-8CB1-41FE-AD51-9572803F8DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81982F4D-8CB1-41FE-AD51-9572803F8DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81982F4D-8CB1-41FE-AD51-9572803F8DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81982F4D-8CB1-41FE-AD51-9572803F8DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48ED7C91-4825-4264-8292-D19D14FFF49F}
+	EndGlobalSection
+EndGlobal
