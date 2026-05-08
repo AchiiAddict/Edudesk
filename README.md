@@ -4,17 +4,14 @@ EduDesk, üniversiteler ve şirketler gibi kurumların kendi izole alanlarında 
 
 
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ## Mimari Genel Bakış
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 \[İstemci]--->\[API Gateway - YARP :5000] --------> \[IdentityService  :8080]  → EduDesk\_IdentityDb
---------> \[SupportService   :8080]  → EduDesk\_SupportDb
-
-&#x09;				--------> \[LearningService  :8080]  → EduDesk\_LearningDb
------>\[RabbitMQ :5672]
-------> \[WorkerService]
+                                          --------> \[SupportService   :8080]  → EduDesk\_SupportDb
+                                        	--------> \[LearningService  :8080]  → EduDesk\_LearningDb
+                                                                                                ----->\[RabbitMQ :5672]
+                                                                                                                  ------> \[WorkerService]
 
 
 
@@ -22,11 +19,9 @@ Tüm servisler arası iletişim **RabbitMQ** mesaj kuyruğu üzerinden asenkron 
 
 
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ## Servisler
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 
 
